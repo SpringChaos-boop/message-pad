@@ -7,8 +7,8 @@
 // @supportURL   https://catwar.su/cat1705753
 // @match        http*://*.catwar.net/*
 // @match        http*://*.catwar.su/*
-// @updateURL    https://github.com/SpringChaos-boop/message-pad/blob/main/pad.js
-// @downloadURL  https://github.com/SpringChaos-boop/message-pad/blob/main/pad.js
+// @updateURL    https://raw.githubusercontent.com/SpringChaos-boop/message-pad/refs/heads/main/pad.js
+// @downloadURL  https://raw.githubusercontent.com/SpringChaos-boop/message-pad/refs/heads/main/pad.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @noframes
